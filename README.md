@@ -6,14 +6,14 @@
 
 ## 💻 About Me
 - Passionate about building scalable and efficient software solutions.
-- Experienced in **React.js**, **Node.js**, **JavaScript**, **TypeScript**, **Java**, and **MySQL**.
-- Enthusiastic about **Spring Boot**, **FastAPI**, and exploring **microservice architecture**.
+- Experienced in **React.js**, **Node.js**, **JavaScript**, **TypeScript**, **Java**, and **Postgre SQL**.
+- Enthusiastic about **Spring Boot**,**Redux** and exploring **microservice architecture**.
 - Strong advocate of clean code, system design, and continuous learning.
 
 ---
 
 ## 🚀 Current Projects
-- **AI Teacher Website** using **React.js**, **Node.js**, and **MySQL** to provide AI-powered teaching services.
+- **Movie Ticket Booking Website** using **React.js**, **Java Spring Boot**, and **Postgre SQL** to provide AI-powered teaching services.
 - **Automatic Monitoring Service** built with **React.js** to alert application owners in case of downtime for URLs, databases, or services.
 
 ---
@@ -27,7 +27,7 @@
 ## 📚 Learning Focus
 - Data Structures and Algorithms.
 - Docker, Scalability, and Best Practices.
-- **Spring Boot**, **FastAPI**, and **DevOps**.
+- **Spring Boot**, **Redux**, and **DevOps**.
 
 ---
 
@@ -40,7 +40,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Frameworks and Tools:
